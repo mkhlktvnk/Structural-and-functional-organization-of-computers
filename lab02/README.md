@@ -9,6 +9,9 @@
 
 ![image](https://user-images.githubusercontent.com/70900496/197425541-a92ef6db-a09f-4953-9aaa-a825c54426a0.png)
 
+![image](https://user-images.githubusercontent.com/70900496/197426200-660e7d74-014d-4b77-a1e3-b410a83e53b3.png)
+
+
 														
 ### Блок №2
 На вход поступает синхросигнал clk_in с блока №1 (такой же по форме).
@@ -34,3 +37,8 @@
 При невыполнении дополнительного задания оценка за лабораторную понижается на 1 балл.
 
 ![image](https://user-images.githubusercontent.com/70900496/197425658-fe6d2db6-4c85-4814-b307-a4a1d897c43c.png)
+
+### Результаты моделирования
+![image](https://user-images.githubusercontent.com/70900496/197426359-906c5d11-9f53-492e-9ede-943b500c419d.png)
+![image](https://user-images.githubusercontent.com/70900496/197426461-dfee7d04-890e-4a55-8500-9f8effc5793b.png)
+
