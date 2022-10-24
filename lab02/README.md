@@ -9,10 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/70900496/197425541-a92ef6db-a09f-4953-9aaa-a825c54426a0.png)
 
-![image](https://user-images.githubusercontent.com/70900496/197426200-660e7d74-014d-4b77-a1e3-b410a83e53b3.png)
 
-
-														
 ### Блок №2
 На вход поступает синхросигнал clk_in с блока №1 (такой же по форме).
 На выходе формируется сигнал clk_D, повторяющий пропорции входного, но с частотой в D раз ниже.
